@@ -1,1 +1,1 @@
-COMPMRI2021
+COMPMRI resources implemented in Python.
